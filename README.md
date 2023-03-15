@@ -48,4 +48,4 @@ int main()
 
 [내 깃허브](https://github.com/IWITIR/, "클릭하면 이동")
 
-![테스트 이미지](./test image.png)
+![테스트 이미지](./test%20image.png)
